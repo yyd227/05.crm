@@ -5,7 +5,7 @@ import cn.sm1234.domain.Customer;
 public interface CustomerMapper {
 
 	/**
-	 * 添加客户
+	 * 添加客户1111
 	 */
 	public void saveCustomer(Customer customer);
 }
